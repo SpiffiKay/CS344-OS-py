@@ -2,6 +2,7 @@
 #Title: Program Py
 #Name: Tiffani Auer
 #Due: Feb 28, 2019
+#note: written to be run on Python3 :)
 ###########################################################################
 import random
 import string
